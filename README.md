@@ -1,1 +1,1 @@
-# automatic_immitation
+# automatic_imitation
