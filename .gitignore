@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+*.DS_Store
+analysis/code/model_latency
+analysis/code/model_trials
