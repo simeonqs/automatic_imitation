@@ -1,0 +1,241 @@
+﻿Date;Session;Trial;Group;Individuals;Behaviours;Response;Latency
+11.11.23;1;1;Compatible;Debbie;Spin;1;0,6
+11.11.23;1;2;Compatible;Debbie;Belly up;1;0,8
+11.11.23;1;3;Compatible;Debbie;Splash;1;0,8
+11.11.23;1;4;Compatible;Debbie;Tail wave;1;1,2
+11.11.23;1;5;Compatible;Debbie;Belly up;1;0,8
+11.11.23;1;6;Compatible;Debbie;Spin;1;0,8
+11.11.23;1;7;Compatible;Debbie;Splash;0;2,4
+11.11.23;1;8;Compatible;Debbie;Tail wave;1;0,8
+11.11.23;1;9;Compatible;Debbie;Splash;0;1,2
+11.11.23;1;10;Compatible;Debbie;Belly up;1;0,6
+12.11.23;2;1;Compatible;Debbie;Tail wave;1;0,8
+12.11.23;2;2;Compatible;Debbie;Spin;1;1,2
+12.11.23;2;3;Compatible;Debbie;Splash;1;1,4
+12.11.23;2;4;Compatible;Debbie;Tail wave;1;0,8
+12.11.23;2;5;Compatible;Debbie;Spin;1;1,6
+12.11.23;2;6;Compatible;Debbie;Splash;1;0,6
+12.11.23;2;7;Compatible;Debbie;Belly up;1;0,6
+12.11.23;2;8;Compatible;Debbie;Spin;1;1
+12.11.23;2;9;Compatible;Debbie;Tail wave;1;0,6
+12.11.23;2;10;Compatible;Debbie;Belly up;1;0,8
+11.11.23;1;1;Compatible;Dobbie;Spin;0;1,6
+11.11.23;1;2;Compatible;Dobbie;Belly up;1;0,6
+11.11.23;1;3;Compatible;Dobbie;Splash;1;1
+11.11.23;1;4;Compatible;Dobbie;Tail wave;1;0,9
+11.11.23;1;5;Compatible;Dobbie;Belly up;1;0,9
+11.11.23;1;6;Compatible;Dobbie;Spin;0;0,8
+11.11.23;1;7;Compatible;Dobbie;Splash;1;0,9
+11.11.23;1;8;Compatible;Dobbie;Tail wave;1;0,8
+11.11.23;1;9;Compatible;Dobbie;Splash;1;0,8
+11.11.23;1;10;Compatible;Dobbie;Belly up;0;0,8
+12.11.23;2;1;Compatible;Dobbie;Tail wave;1;0,6
+12.11.23;2;2;Compatible;Dobbie;Spin;1;0,5
+12.11.23;2;3;Compatible;Dobbie;Splash;1;0,9
+12.11.23;2;4;Compatible;Dobbie;Tail wave;1;0,6
+12.11.23;2;5;Compatible;Dobbie;Spin;1;1
+12.11.23;2;6;Compatible;Dobbie;Splash;1;1
+12.11.23;2;7;Compatible;Dobbie;Belly up;1;0,5
+12.11.23;2;8;Compatible;Dobbie;Spin;1;0,8
+12.11.23;2;9;Compatible;Dobbie;Tail wave;0;0,5
+12.11.23;2;10;Compatible;Dobbie;Belly up;1;0,9
+11.11.23;1;1;Compatible;Daisy;Spin;0;0,9
+11.11.23;1;2;Compatible;Daisy;Belly up;1;0,8
+11.11.23;1;3;Compatible;Daisy;Splash;1;0,6
+11.11.23;1;4;Compatible;Daisy;Tail wave;1;1
+11.11.23;1;5;Compatible;Daisy;Belly up;1;1
+11.11.23;1;6;Compatible;Daisy;Spin;0;0,8
+11.11.23;1;7;Compatible;Daisy;Splash;1;0,6
+11.11.23;1;8;Compatible;Daisy;Tail wave;1;0,6
+11.11.23;1;9;Compatible;Daisy;Splash;1;0,8
+11.11.23;1;10;Compatible;Daisy;Belly up;1;0,6
+12.11.23;2;1;Compatible;Daisy;Tail wave;1;0,6
+12.11.23;2;2;Compatible;Daisy;Spin;1;0,9
+12.11.23;2;3;Compatible;Daisy;Splash;1;0,5
+12.11.23;2;4;Compatible;Daisy;Tail wave;1;0,9
+12.11.23;2;5;Compatible;Daisy;Spin;1;1
+12.11.23;2;6;Compatible;Daisy;Splash;1;0,5
+12.11.23;2;7;Compatible;Daisy;Belly up;1;0,7
+12.11.23;2;8;Compatible;Daisy;Spin;1;0,7
+12.11.23;2;9;Compatible;Daisy;Tail wave;1;0,5
+12.11.23;2;10;Compatible;Daisy;Belly up;0;0,5
+11.11.23;1;1;Incompatible;Delphi;Spin;1;0,8
+11.11.23;1;2;Incompatible;Delphi;Belly up;1;1,2
+11.11.23;1;3;Incompatible;Delphi;Splash;1;0,6
+11.11.23;1;4;Incompatible;Delphi;Tail wave;1;1
+11.11.23;1;5;Incompatible;Delphi;Belly up;0;0,6
+11.11.23;1;6;Incompatible;Delphi;Spin;1;1,2
+11.11.23;1;7;Incompatible;Delphi;Splash;0;1
+11.11.23;1;8;Incompatible;Delphi;Tail wave;0;1,2
+11.11.23;1;9;Incompatible;Delphi;Splash;1;1
+11.11.23;1;10;Incompatible;Delphi;Belly up;0;0,8
+12.11.23;2;1;Incompatible;Delphi;Tail wave;0;0,8
+12.11.23;2;2;Incompatible;Delphi;Spin;0;0,6
+12.11.23;2;3;Incompatible;Delphi;Splash;0;1
+12.11.23;2;4;Incompatible;Delphi;Tail wave;1;1,2
+12.11.23;2;5;Incompatible;Delphi;Spin;1;0,8
+12.11.23;2;6;Incompatible;Delphi;Splash;0;3,4
+12.11.23;2;7;Incompatible;Delphi;Belly up;0;1
+12.11.23;2;8;Incompatible;Delphi;Spin;1;1
+12.11.23;2;9;Incompatible;Delphi;Tail wave;0;0,8
+12.11.23;2;10;Incompatible;Delphi;Belly up;0;0,6
+13.11.23;3;1;Incompatible;Delphi;Tail wave;1;1
+13.11.23;3;2;Incompatible;Delphi;Tail wave;1;1,2
+13.11.23;3;3;Incompatible;Delphi;Spin;0;0,4
+13.11.23;3;4;Incompatible;Delphi;Splash;1;1
+13.11.23;3;5;Incompatible;Delphi;Tail wave;1;1,2
+13.11.23;3;6;Incompatible;Delphi;Spin;0;0,8
+13.11.23;3;7;Incompatible;Delphi;Splash;1;0,8
+13.11.23;3;8;Incompatible;Delphi;Belly up;1;1,2
+13.11.23;3;9;Incompatible;Delphi;Tail wave;0;0,6
+13.11.23;3;10;Incompatible;Delphi;Spin;1;1
+14.11.23;4;1;Incompatible;Delphi;Belly up;1;0,8
+14.11.23;4;2;Incompatible;Delphi;Spin;1;1,8
+14.11.23;4;3;Incompatible;Delphi;Splash;0;0,8
+14.11.23;4;4;Incompatible;Delphi;Tail wave;1;1,4
+14.11.23;4;5;Incompatible;Delphi;Belly up;1;0,6
+14.11.23;4;6;Incompatible;Delphi;Spin;1;2,6
+14.11.23;4;7;Incompatible;Delphi;Splash;1;0,8
+14.11.23;4;8;Incompatible;Delphi;Spin;0;1,8
+14.11.23;4;9;Incompatible;Delphi;Splash;0;0,6
+14.11.23;4;10;Incompatible;Delphi;Tail wave;0;1
+11.11.23;1;1;Incompatible;Ivo;Spin;1;1,2
+11.11.23;1;2;Incompatible;Ivo;Belly up;0;0,8
+11.11.23;1;3;Incompatible;Ivo;Splash;1;1,4
+11.11.23;1;4;Incompatible;Ivo;Tail wave;1;1
+11.11.23;1;5;Incompatible;Ivo;Belly up;1;1,8
+11.11.23;1;6;Incompatible;Ivo;Spin;1;1,4
+11.11.23;1;7;Incompatible;Ivo;Splash;1;1
+11.11.23;1;8;Incompatible;Ivo;Tail wave;0;0,8
+11.11.23;1;9;Incompatible;Ivo;Splash;1;1,2
+11.11.23;1;10;Incompatible;Ivo;Belly up;0;0,8
+12.11.23;2;1;Incompatible;Ivo;Tail wave;1;1
+12.11.23;2;2;Incompatible;Ivo;Spin;1;1,6
+12.11.23;2;3;Incompatible;Ivo;Splash;1;1,8
+12.11.23;2;4;Incompatible;Ivo;Tail wave;1;1
+12.11.23;2;5;Incompatible;Ivo;Spin;1;1
+12.11.23;2;6;Incompatible;Ivo;Splash;1;1
+12.11.23;2;7;Incompatible;Ivo;Belly up;1;1,4
+12.11.23;2;8;Incompatible;Ivo;Spin;1;0,8
+12.11.23;2;9;Incompatible;Ivo;Tail wave;0;1
+12.11.23;2;10;Incompatible;Ivo;Belly up;1;1
+13.11.23;3;1;Incompatible;Ivo;Tail wave;1;1,6
+13.11.23;3;2;Incompatible;Ivo;Tail wave;0;1,4
+13.11.23;3;3;Incompatible;Ivo;Spin;1;1,2
+13.11.23;3;4;Incompatible;Ivo;Splash;0;0,8
+13.11.23;3;5;Incompatible;Ivo;Tail wave;0;1,4
+13.11.23;3;6;Incompatible;Ivo;Spin;1;1,2
+13.11.23;3;7;Incompatible;Ivo;Splash;0;1,2
+13.11.23;3;8;Incompatible;Ivo;Belly up;1;1,4
+13.11.23;3;9;Incompatible;Ivo;Tail wave;1;1,2
+13.11.23;3;10;Incompatible;Ivo;Spin;0;1,4
+14.11.23;4;1;Incompatible;Ivo;Belly up;1;0,8
+14.11.23;4;2;Incompatible;Ivo;Spin;0;0,8
+14.11.23;4;3;Incompatible;Ivo;Splash;0;0,6
+14.11.23;4;4;Incompatible;Ivo;Tail wave;0;0,8
+14.11.23;4;5;Incompatible;Ivo;Belly up;1;0,8
+14.11.23;4;6;Incompatible;Ivo;Spin;0;0,8
+14.11.23;4;7;Incompatible;Ivo;Splash;0;0,8
+14.11.23;4;8;Incompatible;Ivo;Spin;1;0,8
+14.11.23;4;9;Incompatible;Ivo;Splash;0;1
+14.11.23;4;10;Incompatible;Ivo;Tail wave;0;1
+15.11.23;5;1;Incompatible;Ivo;Splash;1;2,2
+15.11.23;5;2;Incompatible;Ivo;Belly up;1;1,8
+15.11.23;5;3;Incompatible;Ivo;Tail wave;0;2,3
+15.11.23;5;4;Incompatible;Ivo;Spin;0;1,3
+15.11.23;5;5;Incompatible;Ivo;Splash;0;1,3
+15.11.23;5;6;Incompatible;Ivo;Spin;1;1
+15.11.23;5;7;Incompatible;Ivo;Splash;1;1,5
+15.11.23;5;8;Incompatible;Ivo;Belly up;0;0,8
+15.11.23;5;9;Incompatible;Ivo;Splash;1;2
+15.11.23;5;10;Incompatible;Ivo;Belly up;0;1,5
+16.11.23;6;1;Incompatible;Ivo;Splash;0;0,8
+16.11.23;6;2;Incompatible;Ivo;Tail wave;1;1,2
+16.11.23;6;3;Incompatible;Ivo;Belly up;0;1,2
+16.11.23;6;4;Incompatible;Ivo;Splash;1;1,9
+16.11.23;6;5;Incompatible;Ivo;Belly up;0;1,3
+16.11.23;6;6;Incompatible;Ivo;Tail wave;1;1,3
+16.11.23;6;7;Incompatible;Ivo;Spin;1;1,8
+16.11.23;6;8;Incompatible;Ivo;Belly up;0;1
+16.11.23;6;9;Incompatible;Ivo;Tail wave;1;0,8
+16.11.23;6;10;Incompatible;Ivo;Belly up;1;1,9
+17.11.23;7;1;Incompatible;Ivo;Tail wave;1;1
+17.11.23;7;2;Incompatible;Ivo;Belly up;0;1,8
+17.11.23;7;3;Incompatible;Ivo;Tail wave;0;2,3
+17.11.23;7;4;Incompatible;Ivo;Tail wave;0;1,9
+17.11.23;7;5;Incompatible;Ivo;Splash;1;0,9
+17.11.23;7;6;Incompatible;Ivo;Tail wave;0;1,8
+17.11.23;7;7;Incompatible;Ivo;Spin;1;0,9
+17.11.23;7;8;Incompatible;Ivo;Spin;1;0,9
+17.11.23;7;9;Incompatible;Ivo;Tail wave;0;0,8
+17.11.23;7;10;Incompatible;Ivo;Spin;0;2,1
+18.11.23;8;1;Incompatible;Ivo;Splash;1;1,7
+18.11.23;8;2;Incompatible;Ivo;Tail wave;0;2,1
+18.11.23;8;3;Incompatible;Ivo;Spin;1;1,5
+18.11.23;8;4;Incompatible;Ivo;Splash;0;2,3
+18.11.23;8;5;Incompatible;Ivo;Spin;0;2,3
+18.11.23;8;6;Incompatible;Ivo;Splash;1;1,1
+18.11.23;8;7;Incompatible;Ivo;Tail wave;1;1,5
+18.11.23;8;8;Incompatible;Ivo;Spin;1;1
+18.11.23;8;9;Incompatible;Ivo;Splash;1;1,4
+18.11.23;8;10;Incompatible;Ivo;Spin;0;1,9
+11.11.23;1;1;Incompatible;Pepina;Spin;1;1,5
+11.11.23;1;2;Incompatible;Pepina;Belly up;1;1
+11.11.23;1;3;Incompatible;Pepina;Splash;0;1,4
+11.11.23;1;4;Incompatible;Pepina;Tail wave;1;2,1
+11.11.23;1;5;Incompatible;Pepina;Belly up;0;1,4
+11.11.23;1;6;Incompatible;Pepina;Spin;0;1,9
+11.11.23;1;7;Incompatible;Pepina;Splash;1;1,3
+11.11.23;1;8;Incompatible;Pepina;Tail wave;1;1,5
+11.11.23;1;9;Incompatible;Pepina;Splash;0;2,2
+11.11.23;1;10;Incompatible;Pepina;Belly up;1;1,8
+12.11.23;2;1;Incompatible;Pepina;Tail wave;0;1,4
+12.11.23;2;2;Incompatible;Pepina;Spin;0;1,7
+12.11.23;2;3;Incompatible;Pepina;Splash;1;1,8
+12.11.23;2;4;Incompatible;Pepina;Tail wave;0;2,2
+12.11.23;2;5;Incompatible;Pepina;Spin;1;1
+12.11.23;2;6;Incompatible;Pepina;Splash;0;1,6
+12.11.23;2;7;Incompatible;Pepina;Belly up;0;1,1
+12.11.23;2;8;Incompatible;Pepina;Spin;0;1,4
+12.11.23;2;9;Incompatible;Pepina;Tail wave;1;1,2
+12.11.23;2;10;Incompatible;Pepina;Belly up;0;1,6
+13.11.23;3;1;Incompatible;Pepina;Tail wave;1;2,3
+13.11.23;3;2;Incompatible;Pepina;Tail wave;0;1,6
+13.11.23;3;3;Incompatible;Pepina;Spin;0;1,7
+13.11.23;3;4;Incompatible;Pepina;Splash;1;0,9
+13.11.23;3;5;Incompatible;Pepina;Tail wave;1;1,3
+13.11.23;3;6;Incompatible;Pepina;Spin;0;1,5
+13.11.23;3;7;Incompatible;Pepina;Splash;1;2,1
+13.11.23;3;8;Incompatible;Pepina;Belly up;1;1,2
+13.11.23;3;9;Incompatible;Pepina;Tail wave;0;1,2
+13.11.23;3;10;Incompatible;Pepina;Spin;1;1,6
+14.11.23;4;1;Incompatible;Pepina;Belly up;1;1,7
+14.11.23;4;2;Incompatible;Pepina;Spin;0;0,9
+14.11.23;4;3;Incompatible;Pepina;Splash;1;1,8
+14.11.23;4;4;Incompatible;Pepina;Tail wave;1;1
+14.11.23;4;5;Incompatible;Pepina;Belly up;1;1,7
+14.11.23;4;6;Incompatible;Pepina;Spin;0;0,8
+14.11.23;4;7;Incompatible;Pepina;Splash;0;1,7
+14.11.23;4;8;Incompatible;Pepina;Spin;1;2,1
+14.11.23;4;9;Incompatible;Pepina;Splash;0;2,1
+14.11.23;4;10;Incompatible;Pepina;Tail wave;1;1,1
+15.11.23;5;1;Incompatible;Pepina;Splash;0;1,8
+15.11.23;5;2;Incompatible;Pepina;Belly up;1;0,8
+15.11.23;5;3;Incompatible;Pepina;Tail wave;1;1,1
+15.11.23;5;4;Incompatible;Pepina;Spin;0;1,7
+15.11.23;5;5;Incompatible;Pepina;Splash;1;2,3
+15.11.23;5;6;Incompatible;Pepina;Spin;0;1,5
+15.11.23;5;7;Incompatible;Pepina;Splash;1;2,2
+15.11.23;5;8;Incompatible;Pepina;Belly up;0;1,6
+15.11.23;5;9;Incompatible;Pepina;Splash;1;0,8
+15.11.23;5;10;Incompatible;Pepina;Belly up;1;1,4
+16.11.23;6;1;Incompatible;Pepina;Splash;1;1,4
+16.11.23;6;2;Incompatible;Pepina;Tail wave;0;1
+16.11.23;6;3;Incompatible;Pepina;Belly up;0;1,1
+16.11.23;6;4;Incompatible;Pepina;Splash;1;2,3
+16.11.23;6;5;Incompatible;Pepina;Belly up;0;1
+16.11.23;6;6;Incompatible;Pepina;Tail wave;0;0,8
+16.11.23;6;7;Incompatible;Pepina;Spin;1;2,3
+16.11.23;6;8;Incompatible;Pepina;Belly up;1;1,9
+16.11.23;6;9;Incompatible;Pepina;Tail wave;1;2,2
+16.11.23;6;10;Incompatible;Pepina;Belly up;1;2,2
