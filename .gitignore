@@ -5,4 +5,5 @@
 *.DS_Store
 analysis/code/model_latency_ordinal
 analysis/code/model_trials_ordinal
+analysis/data/data.xlsx
 documents
