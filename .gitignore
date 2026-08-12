@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 *.DS_Store
-analysis/code/model_latency
-analysis/code/model_trials
+analysis/code/model_latency_ordinal
+analysis/code/model_trials_ordinal
+documents
