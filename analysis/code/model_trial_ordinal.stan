@@ -3,7 +3,7 @@
 // Description: Model to estimate the effect of experimental
 // group on # trials correct. 
 
-data{
+data{ // this blocks describes the data going into the model
   int N_obs;
   int N_ind;
   int N_beh;
@@ -15,7 +15,7 @@ data{
   array[N_obs] int session;
   array[N_obs] int response;
 }
-parameters{
+parameters{ // this block describes the parameters that will be estimated
   real a_bar;
   matrix[2, 2] z_group;
   vector[N_ind] z_ind;
@@ -26,8 +26,10 @@ parameters{
   matrix[2,2] learning;
   array[2, 2] simplex[N_session - 1] delta;
 }
-model{
+model{ // this block describes the model itself
+  // temporary parameter
   vector[N_obs] p;
+  // priors
   a_bar ~ normal(0, 2);
   to_vector(z_group) ~ normal(0, 1);
   z_ind ~ normal(0, 1);
@@ -36,6 +38,7 @@ model{
   sigma_ind ~ exponential(1);
   sigma_beh ~ exponential(1);
   to_vector(learning) ~ normal(0, 1);
+  // looping over all groups and behaviour pairs to set the priors for delta
   for(g in 1:2){
     for(b in 1:2){
       delta[g, b] ~ dirichlet(
@@ -43,9 +46,12 @@ model{
       );
     }
   }
+  // looping over all observations
   for(i in 1:N_obs){
     real learn;
     learn = 0;
+    // updating the learning slope to include all increments up to the current
+    // session
     for(s in 1:(session[i]-1)){
       learn += delta[group[i], beh_pair[i]][s];
     }
@@ -58,7 +64,7 @@ model{
   } 
   response ~ binomial(1, p);
 }
-generated quantities{
+generated quantities{ // this block calculates the contrasts between groups
   vector[2] intercept_cont;
   vector[2] learning_cont;
   intercept_cont =
